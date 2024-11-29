@@ -60,7 +60,6 @@ section{
     color:#fff;
     display: flex;
     justify-content: center;
-    align-items: center;
     
 }
 
@@ -141,3 +140,49 @@ section#sub{
     justify-content: center;
     font-size: 100px;
 }
+
+section#sports{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+section#sports{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+
+section#sub{
+    display: inline-flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+
+section#ce{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+
+section#st{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+
+section#acad{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    
+}
+section#sub{
+    width: 100%;
+    flex-direction: column;
+}
+
